@@ -12,7 +12,7 @@ with open(version_file, "r") as f:
     exec(f.read())
 
 setup(
-    name="vc2_data_tables",
+    name="sphinxcontrib-intertex",
     version=__version__,
     packages=find_packages(),
     namespace_packages=['sphinxcontrib'],
