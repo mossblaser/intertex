@@ -58,8 +58,9 @@ Will be rendered like:
 
     See ``SomeExternalClass`` ([my-bib-entry], page 21) for details.
 
-See the `./example/`_ directory for a complete Sphinx documentation example.
-Refer to the sections below for more detailed usage information.
+See the `./example/ <./example/>`_ directory for a complete Sphinx
+documentation example.  Refer to the sections below for more detailed usage
+information.
 
 
 Intersphinx interoperability
